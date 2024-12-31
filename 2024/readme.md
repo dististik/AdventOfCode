@@ -1,0 +1,1 @@
+[2024 puzzles](https://adventofcode.com/2024) were all solved with JavaScript """using""" [jQuery](https://github.com/jquery/jquery) 3.7.1 and using Google Chrome as a runtime environment.
